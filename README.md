@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/화면 캡처 2025-06-26 162329.jpg
+cover: .gitbook/assets/닌어스 메인화면.jpg
 coverY: 0
 layout:
   cover:
@@ -33,6 +33,8 @@ layout:
 
 문을 열고 들어가면 펼쳐질 세상에서, 우리에겐 주소가 아닌 공간이 필요합니다. 도메인 스페이스는 그 낯선 세계를 향해 나아갈 당신을 위한 나침반이 될 것입니다.
 
+<figure><img src=".gitbook/assets/닌어스 개념도.jpg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:yellow;">도메인 스페이스가 필요한 이유</mark>
 
 오늘날의 인터넷에서는 example.com과 같은 도메인 네임 하나만으로도 해당 웹사이트로 정확히 찾아갈 수 있습니다. 하지만, 메타버스는 단순히 연결만 하는 세상이 아닙니다. 실시간으로 상호작용하고, 몰입하고, 경험하며 자신의 존재를 느낄 수 있는 공간입니다.
@@ -42,6 +44,8 @@ layout:
 당신의 이메일 주소를 떠올려보세요. 이메일 주소가 있다고, 누군가 당신과 연결되는 것이 아닙니다. 사람들은 당신의 인스타그램, 유튜브, 디스코드와 같은 디지털 공간에서 당신을 만나고 기억합니다.
 
 도메인 네임이 연결되는 공간이 있어야, 그 곳에 사람들이 머물고, 상호작용할 수 있습니다.
+
+<figure><img src=".gitbook/assets/도메인 스페이스.jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:yellow;">닌어스와 함께, 준비합시다.</mark>
 
@@ -55,4 +59,35 @@ layout:
 
 차세대 인터넷 시대를 위한 당신의 첫 클릭.
 
-\
+***
+
+## <mark style="color:yellow;">닌어스 로드맵</mark>
+
+<figure><img src=".gitbook/assets/닌어스 페이즈.jpg" alt=""><figcaption></figcaption></figure>
+
+{% stepper %}
+{% step %}
+### 페이즈1
+
+지구 1:1 스케일의 디지털 지구를 구축합니다. 도메인 스페이스를 닌어스의 기본 요소이며, 디지털 콘텐츠로 발행됩니다.
+{% endstep %}
+
+{% step %}
+### 페이즈2
+
+확장 가능한, 닌어스를 위한 백엔드 아키텍처를 구축합니다.
+{% endstep %}
+
+{% step %}
+### 페이즈3
+
+모두를 위한, 모든 것이 담긴, 진정한 웹3 위치기반의 닌어스메타버스 플랫폼을 구축합니다.
+{% endstep %}
+
+{% step %}
+### 페이즈4
+
+커뮤니티 의사 결정을 위한 거버넌스 구조를 마련하고, 커뮤니티 주도의 개발을 위한 소스코드 모두 공개할 예정입니다.\
+
+{% endstep %}
+{% endstepper %}
